@@ -3,6 +3,7 @@
 *.mat
 *.zip
 **/.ipynb_checkpoints
+*weights
 portrait4d/pretrained_models/
 portrait4d/data/
 portrait4d/experiments/
